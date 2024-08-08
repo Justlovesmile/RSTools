@@ -1,0 +1,13 @@
+# base
+numpy
+tqdm
+opencv-python
+shapely
+GDAL
+lxml
+matplotlib
+pillow
+setuptools
+
+# for detect
+#torch
